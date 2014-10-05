@@ -1,0 +1,128 @@
+html {
+	  background: url(http://i1280.photobucket.com/albums/a487/sfdevgirl/_s_a14Db14Dc14Dd14De0f0g64h0C282C183748EF6560E69A7CD8BA98DAD0AAiCj30k64l1F4m1F4_zps48dfde30.jpg); 
+  
+}
+
+body {
+	margin: 0;
+}
+
+
+
+nav {
+	width: 100%;
+	height:58px;
+	background-color:transparent;
+}
+
+
+
+.head {
+margin: 0 auto;
+width: 1030px;
+padding-top: 41px;
+}
+
+
+
+h1 {
+	font-family: 'Fredoka One', cursive;
+	color: #D65859;
+	font-size: 88px;
+	display: inline;
+	margin-left: 17px;
+}
+
+h2{
+	font-family: 'Nixie One';
+	color:#72434B;
+	font-size: 47px;
+	display: inline;
+	margin-left: 30px;
+}
+
+h3{
+	font-family: 'Raleway';
+	color:#BC9880;
+	font-size:30px;
+	display: inline;
+	margin-left: 30px;
+}
+
+h4 {
+font-family: 'Chelsea Market', cursive;
+color: #FFFFFF;
+font-size: 66px;
+}
+
+
+
+.navbar{
+  margin: 0;
+  float: left;
+  padding-left: 0;
+ 
+}
+
+.page, .page > a{
+	list-style-type: none;
+	color: #ffffff;
+	font-size: 20px;
+	font-family: 'Chelsea Market', cursive;
+	text-decoration: none;
+	float: left;;
+	width: 100px;
+	text-align: center;
+	margin-top: 0;
+}
+
+.page a:hover{
+	border-bottom: 3px solid #D65859;
+	background-color: #D65859;
+}
+
+ #active > a{
+	border-bottom: 3px solid #D65859;
+	
+ }
+
+.container {
+
+	background-color:#0A2127;
+	width: 100%;
+	height: 317px;
+	}
+
+.two{
+	margin:0 auto;
+	width:1030px;
+}
+
+.copy  {
+  float: right;
+  margin: 5px;
+  color: #D65859;
+	
+}
+
+
+footer{
+width: 100%;
+background-color:  #0A2127;
+color: #D65859;
+height: 30px;
+font-family: 'Chelsea Market', cursive;
+margin-top: 10px;
+clear: both;
+position: fixed;
+bottom: 0;
+}
+
+footer a{
+	color:white;
+	text-decoration:none;
+	font-size: 15px;
+}
+
+
+
